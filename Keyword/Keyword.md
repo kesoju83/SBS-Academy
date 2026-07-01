@@ -1,4 +1,4 @@
-# [CPU vs GPU](./CPU vs GPU.md)
+# [CPU vs GPU](./CPUvsGPU.md)
 # CUDA
 # RAM vs VRAM
 # Computer Shader
