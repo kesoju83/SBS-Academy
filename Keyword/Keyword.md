@@ -1,5 +1,5 @@
 # [CPU vs GPU](./CPUvsGPU.md)
-# CUDA
+# [CUDA](./CUDA.md)
 # RAM vs VRAM
 # Computer Shader
 # 프로세스
