@@ -1,10 +1,21 @@
 # [CPU vs GPU](./CPUvsGPU.md)
 # [CUDA](./CUDA.md)
-# RAM vs VRAM
-# Computer Shader
-# 프로세스
-# 프로세스 메모리 영역
-# 코드 영역
-# 데이터 영역
-# 힙 영역
-# 스택 영역
+# [RAM vs VRAM](./RamvsVRAM.md)
+# [Computer Shader](./ComputerShader.md)
+# [프로세스](./Process.md)
+# [프로세스 메모리 영역](./Process.md)
+# [코드 영역](./Process.md)
+# [데이터 영역](./Process.md)
+# [힙 영역](./Process.md)
+# [스택 영역](./Process.md)
+# [파일 포맷](./FileForma.md)
+# [JPG](./FileForma.md)
+# [BMP](./FileForma.md)
+# [TGA](./FileForma.md)
+# [PNG](./FileForma.md)
+# [WAV](./FileForma.md)
+# [AVI](./FileForma.md)
+# [Thread](./ThreadAndProcess.md)
+# [Process](./ThreadAndProcess.md)
+# [Process vs Thread](./ThreadAndProcess.md)
+# PCB(Process Control Block)
