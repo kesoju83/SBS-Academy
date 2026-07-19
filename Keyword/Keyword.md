@@ -18,4 +18,4 @@
 # [Thread](./ThreadAndProcess.md)
 # [Process](./ThreadAndProcess.md)
 # [Process vs Thread](./ThreadAndProcess.md)
-# PCB(Process Control Block)
+# [PCB(Process Control Block)](./PCB.md)
