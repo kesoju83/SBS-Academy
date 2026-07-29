@@ -20,3 +20,5 @@
 # [Process vs Thread](./ThreadAndProcess.md)
 # [PCB(Process Control Block)](./PCB.md)
 # [TCB(Thread Status)](./TCB.md)
+# [CPU register](./CPUregister.md)
+# [CPU Register - PC(Program Counter)](./CPUregister.md)
